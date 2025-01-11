@@ -1,3 +1,5 @@
+## The PAEF code is used from https://github.com/byt3bit/forkae/tree/master/software/ref/paefforkskinnyb128t192n48v1/ref
+
 # NonCommittingForkAE
 
 1. Run make to compile all the files. 
