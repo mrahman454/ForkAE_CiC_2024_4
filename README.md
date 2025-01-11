@@ -1,4 +1,4 @@
-## The PAEF code is used from https://github.com/byt3bit/forkae/tree/master/software/ref/paefforkskinnyb128t192n48v1/ref
+## The codes are modified and reused from https://github.com/byt3bit/forkae/tree/master/software/ref/paefforkskinnyb128t192n48v1/ref
 
 # NonCommittingForkAE
 
